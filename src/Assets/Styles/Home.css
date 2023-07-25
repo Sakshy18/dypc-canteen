@@ -67,7 +67,7 @@ body{
   }
   
   header .navlinks:hover{
-    color: #ffa900;
+    color: #cafaff;
   }
   
   /* section */
@@ -168,7 +168,7 @@ body{
   }
   .billTabletd{
     background-color: #ffffff;
-    color: tomato;
+    color: rgb(190, 255, 252);
   }
   .bill-det{
     color: rgb(255, 255, 255);
